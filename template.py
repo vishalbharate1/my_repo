@@ -8,7 +8,7 @@ logging.basicConfig(
 )
 
 while True:
-    project_name=print('Enter Project Name: ')
+    project_name=input('Enter Project Name: ')
     if project_name !='':
         break
 
